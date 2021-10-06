@@ -1,4 +1,4 @@
-# Python-Visualization
+# Python-Visualization (파이썬 시각화)
 
 - Anaconda's Jupyterbook을 주로 이용, 파이썬시각화 실습한 결과물 입니다. 
 - 사용 라이브러리 : matplotlib, pandas, seaborn, xlwings 등.
